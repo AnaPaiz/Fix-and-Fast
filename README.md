@@ -1,2 +1,2 @@
-# portafolio
-Este repositorio fue creado para añadir programas y sitios web para un portafolio de trabajo
+# Fix and Fax
+Sitio Web donde simula la presentación de un lugar de reparación y venta de aparatos electricos
